@@ -1,2 +1,2 @@
 # projet_spaceInvader
-projet réalisé en L2 informatique
+projet réalisé en L2 informatique en Python
